@@ -1,6 +1,4 @@
-#################  
-## openFrameworks  
-#################  
+# openFrameworks
 
 [Bb]in/*  
 ![Bb]in/data/  
@@ -14,16 +12,12 @@
 *.pyc  
 *.log  
 
-#################  
-## Code::Blocks  
-#################  
+# Code::Blocks
 
 *.depend  
 *.layout  
 
-############  
-## Windows  
-############  
+# Windows
 
 # Windows image file caches  
 Thumbs.db  
